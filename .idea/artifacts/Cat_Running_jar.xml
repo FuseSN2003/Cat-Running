@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cat Running:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cat_Running_jar</output-path>
+    <root id="archive" name="Cat Running.jar">
+      <element id="module-output" name="Cat Running" />
+    </root>
+  </artifact>
+</component>
